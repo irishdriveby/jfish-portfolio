@@ -1,0 +1,322 @@
+[
+  {
+    "id": "fortune-ai-energy",
+    "title": "Meet the companies using AI to reinvent the energy business",
+    "desc": "Feature on how Halcyon and others are applying AI to the energy sector",
+    "outlet": "Fortune",
+    "year": "2025",
+    "format": "press",
+    "url": "https://fortune.com/2025/07/23/ai-energy-data-centers-environment-halcyon/",
+    "thumb": {
+      "label": "Fortune",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8c06a",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "nyt-wind-solar",
+    "title": "A Trump 'Blockade' Is Stalling Hundreds of Wind and Solar Projects Nationwide",
+    "desc": "New York Times climate feature citing Halcyon's energy data",
+    "outlet": "New York Times",
+    "year": "2026",
+    "format": "press",
+    "url": "https://www.nytimes.com/2026/02/04/climate/wind-solar-projects.html?unlocked_article_code=1.JlA.oec6.p0xsowX8HXIZ",
+    "thumb": {
+      "label": "NYT",
+      "sublabel": "Press",
+      "bg": "#0d0d0d",
+      "fg": "#e8e4dc",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "economist-solar",
+    "title": "Solar Power Is Going to Be Huge",
+    "desc": "Interactive Economist essay featuring Halcyon's energy intelligence",
+    "outlet": "The Economist",
+    "year": "2024",
+    "format": "press",
+    "url": "https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge",
+    "thumb": {
+      "label": "Economist",
+      "sublabel": "Press",
+      "bg": "#0d1a0d",
+      "fg": "#e8e4dc",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "axios-halcyon",
+    "title": "Nat Bullard's Halcyon raises funding for energy data AI",
+    "desc": "Axios Pro Climate coverage of Halcyon's fundraise and energy data platform",
+    "outlet": "Axios Pro",
+    "year": "2024",
+    "format": "press",
+    "url": "https://www.axios.com/pro/climate-deals/2024/04/18/nat-bullard-halcyon-energy-data-ai",
+    "thumb": {
+      "label": "Axios",
+      "sublabel": "Press",
+      "bg": "#1a0f00",
+      "fg": "#ff7624",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "halcyon-blog",
+    "title": "Machine Readable \u2014 Halcyon Blog",
+    "desc": "Content strategy, editorial calendar, and ghostwriting for Halcyon's technical blog",
+    "outlet": "Halcyon",
+    "year": "2023",
+    "format": "web",
+    "url": "https://halcyon.io/blog/machine-readable",
+    "thumb": {
+      "label": "\u2295",
+      "sublabel": "Blog",
+      "bg": "#0a1a14",
+      "fg": "#4ade80",
+      "type": "icon"
+    }
+  },
+  {
+    "id": "halcyon-newsletter",
+    "title": "What's Happening in Energy \u2014 Newsletter",
+    "desc": "Ongoing editorial newsletter covering developments across the energy industry",
+    "outlet": "Halcyon",
+    "year": "2023",
+    "format": "web",
+    "url": "https://halcyon.io/blog/whatshappeninginenergy",
+    "thumb": {
+      "label": "\u2726",
+      "sublabel": "Newsletter",
+      "bg": "#0a1a14",
+      "fg": "#34d399",
+      "type": "icon"
+    }
+  },
+  {
+    "id": "halcyon-website",
+    "title": "Halcyon.io \u2014 Layout & Copywriting",
+    "desc": "Full website overhaul: architecture, brand voice, and copy for all pages",
+    "outlet": "Halcyon",
+    "year": "2022",
+    "format": "web",
+    "url": "https://halcyon.io",
+    "thumb": {
+      "label": "\u25c8",
+      "sublabel": "Website",
+      "bg": "#0a1a14",
+      "fg": "#86efac",
+      "type": "icon"
+    }
+  },
+  {
+    "id": "twitter-shareholder-letter",
+    "title": "Twitter Q4 & FY2021 Shareholder Letter",
+    "desc": "Wrote the Revenue Product section of Twitter's official SEC shareholder letters, Q2\u2013Q4 2021",
+    "outlet": "Twitter / SEC",
+    "year": "2021",
+    "format": "document",
+    "url": "https://www.sec.gov/Archives/edgar/data/1418091/000141809122000021/twtrq421ex991.htm",
+    "thumb": {
+      "label": "SEC",
+      "sublabel": "Filing",
+      "bg": "#081520",
+      "fg": "#38bdf8",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "twitter-analyst-day",
+    "title": "Twitter 2021 Analyst Day \u2014 Revenue Product Segment",
+    "desc": "Wrote the Revenue Product content and analyst talking points \u2014 starts at 1:22:00",
+    "outlet": "Twitter",
+    "year": "2021",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=d6sfHwAP9tI&t=4920s",
+    "thumb": {
+      "label": "\u25b6",
+      "sublabel": "YouTube",
+      "bg": "#1a0808",
+      "fg": "#ff5050",
+      "type": "video"
+    }
+  },
+  {
+    "id": "adobe-summit-deck",
+    "title": "Social Advertising in a Cross-Channel World \u2014 Adobe Summit 2018",
+    "desc": "Directed and delivered session on brand marketing and media agency strategy at Adobe Summit",
+    "outlet": "Adobe Summit",
+    "year": "2018",
+    "format": "deck",
+    "url": "https://s3.amazonaws.com/external_clips/3066749/Social_Advertising_in_a_Cross-Channel_World_-_Summit_2018_Final.pdf?1557507338",
+    "thumb": {
+      "label": "Adobe",
+      "sublabel": "PDF Deck",
+      "bg": "#1a0808",
+      "fg": "#ff4b00",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "openvv-video",
+    "title": "Open Video View (OpenVV) \u2014 Viewability Benchmark Explainer",
+    "desc": "Wrote the full script for this industry viewability standards video",
+    "outlet": "TubeMogul",
+    "year": "2016",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=5g4pHqoq6Xg",
+    "thumb": {
+      "label": "\u25b6",
+      "sublabel": "YouTube",
+      "bg": "#10101a",
+      "fg": "#a78bfa",
+      "type": "video"
+    }
+  },
+  {
+    "id": "adcloud-keynote",
+    "title": "AdCloud Keynote \u2014 Get Out of the Walled Garden",
+    "desc": "Marketing column turned keynote address on programmatic advertising strategy",
+    "outlet": "TubeMogul",
+    "year": "2018",
+    "format": "video",
+    "url": "https://vimeo.com/298481270",
+    "thumb": {
+      "label": "\u25b6",
+      "sublabel": "Vimeo",
+      "bg": "#081820",
+      "fg": "#1ab7ea",
+      "type": "video"
+    }
+  },
+  {
+    "id": "wsj-culture",
+    "title": "Weekend Read: How to Scale Culture for Competitive Advantage",
+    "desc": "Op-ed on the three pillars leaders need to build successful companies \u2014 placed in WSJ Weekend Read",
+    "outlet": "Wall Street Journal",
+    "year": "2014",
+    "format": "press",
+    "url": "https://www.wsj.com/articles/BL-232B-2899",
+    "thumb": {
+      "label": "WSJ",
+      "sublabel": "Op-Ed",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "vox-ukraine",
+    "title": "U.S. Tech Companies Have a Lot at Stake in Ukraine",
+    "desc": "Op-ed on why the tech industry had significant exposure to the Ukraine conflict",
+    "outlet": "Vox",
+    "year": "2014",
+    "format": "press",
+    "url": "https://www.vox.com/2014/6/26/11628364/u-s-tech-companies-have-a-lot-at-stake-in-ukraine",
+    "thumb": {
+      "label": "Vox",
+      "sublabel": "Op-Ed",
+      "bg": "#1a0812",
+      "fg": "#e6005c",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "adage-obamacare",
+    "title": "Where's the Digital Advertising to Get Young People Into Obamacare?",
+    "desc": "Op-ed on the missed opportunity in digital advertising targeting young, uninsured Americans",
+    "outlet": "Advertising Age",
+    "year": "2014",
+    "format": "press",
+    "url": "https://adage.com/article/digitalnext/digital-ads-young-people-obamacare/292308/",
+    "thumb": {
+      "label": "Ad Age",
+      "sublabel": "Op-Ed",
+      "bg": "#1a0808",
+      "fg": "#e8001b",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "thedrum-superbowl",
+    "title": "So You Ran a Super Bowl Ad. Now What?",
+    "desc": "Op-ed on maximizing the long tail of a Super Bowl buy with programmatic retargeting",
+    "outlet": "The Drum",
+    "year": "2016",
+    "format": "press",
+    "url": "https://www.thedrum.com/opinion/so-you-ran-super-bowl-ad-now-what",
+    "thumb": {
+      "label": "The Drum",
+      "sublabel": "Op-Ed",
+      "bg": "#1a0814",
+      "fg": "#e61c64",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "ce-ad-fraud",
+    "title": "The Case for Beating Ad Fraud With Programmatic",
+    "desc": "Op-ed on how programmatic buying methodology can systematically eliminate digital ad fraud",
+    "outlet": "Campaigns & Elections",
+    "year": "2015",
+    "format": "press",
+    "url": "https://campaignsandelections.com/campaigntech/the-case-for-beating-ad-fraud-with-programmatic/",
+    "thumb": {
+      "label": "C&E",
+      "sublabel": "Op-Ed",
+      "bg": "#080e1a",
+      "fg": "#6090d8",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "adexchanger-attribution",
+    "title": "Your Attribution Model Is Broken",
+    "desc": "Op-ed arguing that standard digital attribution models fundamentally misrepresent the customer journey",
+    "outlet": "AdExchanger",
+    "year": "2015",
+    "format": "press",
+    "url": "https://www.adexchanger.com/data-driven-thinking/your-attribution-model-is-broken/",
+    "thumb": {
+      "label": "AdX",
+      "sublabel": "Op-Ed",
+      "bg": "#0d1520",
+      "fg": "#60a5d8",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "campaign-asia-fishing",
+    "title": "Bits, Bites, and Downstream Indicators: Fly Fishing and Advertising",
+    "desc": "Op-ed drawing an extended analogy between fly fishing technique and advertising measurement",
+    "outlet": "Campaign Asia",
+    "year": "2016",
+    "format": "press",
+    "url": "https://www.campaignasia.com/article/bits-bites-and-downstream-indicators-the-connections-between-fly-fishing-and-ad/g7lx5euevnvknadadi0tfceup0",
+    "thumb": {
+      "label": "CA",
+      "sublabel": "Op-Ed",
+      "bg": "#1a0808",
+      "fg": "#e84040",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "nyt-corner-office",
+    "title": "Corner Office: For Brett Wilson of TubeMogul, It's All in the Follow-Through",
+    "desc": "New York Times Corner Office profile \u2014 pitched and placed the story, prepped the subject",
+    "outlet": "New York Times",
+    "year": "2014",
+    "format": "press",
+    "url": "https://www.nytimes.com/2014/05/25/business/corner-office-for-brett-wilson-of-tubemogul-its-all-in-the-follow-through.html",
+    "thumb": {
+      "label": "NYT",
+      "sublabel": "Feature",
+      "bg": "#0d0d0d",
+      "fg": "#e8e4dc",
+      "type": "pub"
+    }
+  }
+]
