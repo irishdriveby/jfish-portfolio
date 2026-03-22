@@ -318,5 +318,85 @@
       "fg": "#e8e4dc",
       "type": "pub"
     }
+  },
+  {
+    "id": "independence-matters-video",
+    "title": "Independence Matters \u2014 TubeMogul Anti-Walled-Garden Campaign",
+    "desc": "Conceived and produced a multi-platform campaign calling out Google's closed ecosystem \u2014 video, press strategy, and earned coverage in WSJ, The Drum, Business Insider, Campaign Asia, and more.",
+    "outlet": "TubeMogul",
+    "year": "2016",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=e2XPD28mCO8",
+    "thumb": {
+      "type": "video",
+      "label": "\u25b6",
+      "sublabel": "YouTube",
+      "bg": "#10101a",
+      "fg": "#a78bfa"
+    }
+  },
+  {
+    "id": "independence-matters-wsj",
+    "title": "TubeMogul Calls Google Anti-Competitive in New Ad Campaign",
+    "desc": "WSJ coverage of the Independence Matters campaign attacking Google's walled-garden ad ecosystem.",
+    "outlet": "Wall Street Journal",
+    "year": "2016",
+    "format": "press",
+    "url": "https://www.wsj.com/articles/tubemogul-calls-google-anti-competitive-in-new-ad-campaign-1457362166",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Press",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    }
+  },
+  {
+    "id": "independence-matters-drum",
+    "title": "Google Attacked for Creating 'Walled Gardens' in TubeMogul Campaign",
+    "desc": "The Drum coverage of the Independence Matters campaign.",
+    "outlet": "The Drum",
+    "year": "2016",
+    "format": "press",
+    "url": "https://www.thedrum.com/news/google-attacked-creating-walled-gardens-tubemogul-campaign",
+    "thumb": {
+      "type": "pub",
+      "label": "The Drum",
+      "sublabel": "Press",
+      "bg": "#1a0814",
+      "fg": "#e61c64"
+    }
+  },
+  {
+    "id": "twitter-reimagining-aw",
+    "title": "#ReimaginingPublicConversation",
+    "desc": "Advertising Week feature on Twitter's initiative to reimagine the public conversation on social media.",
+    "outlet": "Advertising Week",
+    "year": "2021",
+    "format": "press",
+    "url": "https://advertisingweek.com/reimagining-the-public-conversation/",
+    "thumb": {
+      "type": "pub",
+      "label": "AW",
+      "sublabel": "Press",
+      "bg": "#0d0820",
+      "fg": "#a78bfa"
+    }
+  },
+  {
+    "id": "twitter-reimagining-adage",
+    "title": "How Twitter Is Advancing the Conversation on Social Media",
+    "desc": "Ad Age feature on Twitter's #ReimaginingPublicConversation initiative.",
+    "outlet": "Advertising Age",
+    "year": "2021",
+    "format": "press",
+    "url": "https://adage.com/article/twitter/how-twitter-advancing-conversation-social-media/2392511/",
+    "thumb": {
+      "type": "pub",
+      "label": "Ad Age",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8001b"
+    }
   }
 ]
