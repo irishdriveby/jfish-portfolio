@@ -15,16 +15,16 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:      #0b0b0b;
-      --surface: #111111;
-      --border:  #1c1c1c;
-      --border2: #252525;
-      --text:    #d8d4cc;
-      --muted:   #7a7672;
-      --dim:     #2c2c2c;
-      --accent:  #c8a96e;
-      --mono:    'DM Mono', monospace;
-      --display: 'DM Serif Display', Georgia, serif;
+      --bg:        #f5f2ed;
+      --surface:   #edeae4;
+      --border:    #dedad4;
+      --border2:   #ccc8c2;
+      --text:      #1a1814;
+      --muted:     #888480;
+      --dim:       #bbb8b2;
+      --accent:    #8a6a3a;
+      --mono:      'DM Mono', monospace;
+      --display:   'DM Serif Display', Georgia, serif;
     }
 
     html { scroll-behavior: smooth; }
@@ -38,16 +38,7 @@
 
     a { color: inherit; text-decoration: none; }
 
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
-      pointer-events: none;
-      z-index: 999;
-      opacity: 0.55;
-    }
-
+    /* ── Nav ── */
     nav {
       position: sticky;
       top: 0;
@@ -57,7 +48,7 @@
       align-items: center;
       padding: 22px 52px;
       border-bottom: 1px solid var(--border);
-      background: rgba(11,11,11,0.93);
+      background: rgba(245,242,237,0.94);
       backdrop-filter: blur(14px);
     }
 
@@ -80,6 +71,7 @@
     }
     .nav-links a:hover { color: var(--text); }
 
+    /* ── Hero ── */
     .hero {
       max-width: 680px;
       margin: 0 auto;
@@ -114,15 +106,15 @@
       font-size: 19px;
       font-style: italic;
       line-height: 1.85;
-      color: #908c88;
+      color: var(--muted);
       max-width: 560px;
       opacity: 0;
       animation: fadeUp 0.5s 0.2s ease forwards;
     }
 
     .hero-bio a {
-      color: #a8a4a0;
-      border-bottom: 1px solid #333;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border2);
       transition: color 0.15s, border-color 0.15s;
     }
     .hero-bio a:hover { color: var(--text); border-color: var(--muted); }
@@ -145,6 +137,7 @@
     }
     .hero-links a:hover { color: var(--text); }
 
+    /* ── Work section ── */
     .work-section {
       max-width: 900px;
       margin: 0 auto;
@@ -185,14 +178,15 @@
       transition: color 0.15s, border-color 0.15s;
     }
     .filter-btn:hover { color: var(--text); }
-    .filter-btn.active { color: var(--text); border-bottom-color: var(--dim); }
+    .filter-btn.active { color: var(--text); border-bottom-color: var(--border2); }
 
+    /* ── Work rows ── */
     .work-row {
       display: grid;
-      grid-template-columns: 76px 1fr 148px;
+      grid-template-columns: 100px 1fr 60px;
       gap: 22px;
       align-items: center;
-      padding: 15px 10px;
+      padding: 14px 10px;
       border-bottom: 1px solid var(--border);
       cursor: pointer;
       transition: background 0.12s;
@@ -200,19 +194,41 @@
       text-decoration: none;
       color: inherit;
     }
-    .work-row:hover { background: #131313; }
+    .work-row:hover { background: #edeae4; }
     .work-row.hidden { display: none; }
 
+    /* ── Left col: outlet name + thumb stacked ── */
+    .work-left {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 5px;
+      flex-shrink: 0;
+    }
+
+    .work-outlet-name {
+      font-family: var(--mono);
+      font-size: 8px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 96px;
+    }
+
+    /* ── Thumbnail ── */
     .thumb {
       width: 76px;
-      height: 50px;
+      height: 48px;
       border-radius: 4px;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       flex-shrink: 0;
-      border: 1px solid rgba(255,255,255,0.05);
+      border: 1px solid rgba(0,0,0,0.06);
       position: relative;
       overflow: hidden;
     }
@@ -221,8 +237,8 @@
       position: absolute;
       inset: 0;
       background-image:
-        repeating-linear-gradient(0deg,  rgba(255,255,255,0.022) 0px, transparent 1px, transparent 9px),
-        repeating-linear-gradient(90deg, rgba(255,255,255,0.022) 0px, transparent 1px, transparent 9px);
+        repeating-linear-gradient(0deg,  rgba(255,255,255,0.06) 0px, transparent 1px, transparent 9px),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.06) 0px, transparent 1px, transparent 9px);
     }
 
     .thumb-label {
@@ -237,10 +253,10 @@
       position: relative; z-index: 1;
       font-family: var(--mono);
       font-size: 7px;
-      letter-spacing: 0.16em;
+      letter-spacing: 0.14em;
       text-transform: uppercase;
       margin-top: 3px;
-      opacity: 0.4;
+      opacity: 0.45;
     }
 
     .thumb-play {
@@ -255,11 +271,12 @@
 
     .thumb-icon {
       position: relative; z-index: 1;
-      font-size: 14px;
+      font-size: 13px;
       line-height: 1;
       margin-bottom: 2px;
     }
 
+    /* ── Center col ── */
     .work-body { min-width: 0; }
 
     .work-title {
@@ -268,7 +285,7 @@
       font-weight: 400;
       letter-spacing: -0.01em;
       line-height: 1.3;
-      color: #9a9692;
+      color: var(--muted);
       margin-bottom: 5px;
       transition: color 0.12s;
     }
@@ -276,40 +293,22 @@
 
     .work-desc {
       font-family: var(--display);
-      font-size: 14px;
+      font-size: 13px;
       font-style: italic;
-      color: #5a5856;
+      color: var(--dim);
       line-height: 1.5;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
 
+    /* ── Right col: year + arrow ── */
     .work-meta {
       display: flex;
       flex-direction: column;
       align-items: flex-end;
-      gap: 5px;
+      gap: 6px;
       flex-shrink: 0;
-    }
-
-    .work-outlet {
-      font-family: var(--mono);
-      font-size: 9px;
-      letter-spacing: 0.06em;
-      color: #5a5654;
-      text-align: right;
-    }
-
-    .work-tag { display: flex; align-items: center; gap: 5px; }
-
-    .work-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
-
-    .work-format {
-      font-family: var(--mono);
-      font-size: 9px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
     }
 
     .work-year {
@@ -325,8 +324,9 @@
       transition: color 0.12s, transform 0.15s;
       font-family: var(--mono);
     }
-    .work-row:hover .work-arrow { color: var(--text); transform: translate(2px,-2px); }
+    .work-row:hover .work-arrow { color: var(--text); transform: translate(2px, -2px); }
 
+    /* ── Footer ── */
     footer {
       border-top: 1px solid var(--border);
       padding: 28px 52px;
@@ -350,17 +350,19 @@
       text-transform: uppercase;
     }
 
+    /* ── Animations ── */
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(10px); }
       to   { opacity: 1; transform: translateY(0); }
     }
 
+    /* ── Responsive ── */
     @media (max-width: 640px) {
       nav { padding: 18px 24px; }
       .hero { padding: 52px 24px 44px; }
       .work-section { padding: 0 24px 80px; }
       footer { padding: 24px; flex-direction: column; gap: 8px; text-align: center; }
-      .work-row { grid-template-columns: 60px 1fr; }
+      .work-row { grid-template-columns: 80px 1fr; }
       .work-meta { display: none; }
       .thumb { width: 60px; height: 40px; }
     }
@@ -418,14 +420,6 @@
   </footer>
 
   <script>
-    const FORMAT_COLORS = {
-      press:    "#c8a96e",
-      video:    "#fb923c",
-      deck:     "#4ade80",
-      document: "#38bdf8",
-      web:      "#86efac",
-    };
-
     function hexRgb(hex) {
       const h = hex.replace("#","");
       return [parseInt(h.slice(0,2),16), parseInt(h.slice(2,4),16), parseInt(h.slice(4,6),16)].join(",");
@@ -435,7 +429,7 @@
       const grid = `<div class="thumb-grid"></div>`;
       if (t.type === "video") {
         return `<div class="thumb" style="background:${t.bg};">${grid}
-          <div class="thumb-play" style="border:1.5px solid rgba(${hexRgb(t.fg)},0.35);background:rgba(${hexRgb(t.fg)},0.08);">
+          <div class="thumb-play" style="border:1.5px solid rgba(${hexRgb(t.fg)},0.4);background:rgba(${hexRgb(t.fg)},0.1);">
             <span style="color:${t.fg};font-size:7px;margin-left:2px;font-family:'DM Mono',monospace;">▶</span>
           </div>
           <span class="thumb-sub" style="color:${t.fg};">${t.sublabel}</span></div>`;
@@ -445,26 +439,23 @@
           <span class="thumb-icon" style="color:${t.fg};">${t.label}</span>
           <span class="thumb-sub" style="color:${t.fg};">${t.sublabel}</span></div>`;
       }
-      const size = t.label.length > 4 ? "10px" : t.label.length > 3 ? "12px" : "15px";
+      const size = t.label.length > 6 ? "9px" : t.label.length > 4 ? "11px" : t.label.length > 3 ? "13px" : "16px";
       return `<div class="thumb" style="background:${t.bg};">${grid}
-        <span class="thumb-label" style="color:${t.fg};font-size:${size};text-align:center;line-height:1.2;">${t.label}</span>
+        <span class="thumb-label" style="color:${t.fg};font-size:${size};text-align:center;line-height:1.2;padding:0 4px;">${t.label}</span>
         <span class="thumb-sub" style="color:${t.fg};">${t.sublabel}</span></div>`;
     }
 
     function buildRow(item) {
-      const color = FORMAT_COLORS[item.format] || "#888";
       return `<a class="work-row" data-format="${item.format}" href="${item.url}" target="_blank" rel="noopener">
-        ${buildThumb(item.thumb)}
+        <div class="work-left">
+          <span class="work-outlet-name">${item.outlet}</span>
+          ${buildThumb(item.thumb)}
+        </div>
         <div class="work-body">
           <div class="work-title">${item.title}</div>
           <div class="work-desc">${item.desc}</div>
         </div>
         <div class="work-meta">
-          <span class="work-outlet">${item.outlet}</span>
-          <span class="work-tag">
-            <span class="work-dot" style="background:${color};"></span>
-            <span class="work-format" style="color:${color};">${item.format}</span>
-          </span>
           <span class="work-year">${item.year}</span>
           <span class="work-arrow">↗</span>
         </div>
@@ -498,7 +489,7 @@
       })
       .catch(() => {
         document.getElementById("workList").innerHTML =
-          `<p style="font-family:'DM Mono',monospace;font-size:11px;color:#444;padding:40px 0;">Could not load work.json — make sure it's in the same folder as index.html.</p>`;
+          `<p style="font-family:'DM Mono',monospace;font-size:11px;color:#888;padding:40px 0;">Could not load work.json — make sure it's in the same folder as index.html.</p>`;
       });
   </script>
 </body>
