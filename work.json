@@ -1,21 +1,5 @@
 [
   {
-    "id": "fortune-ai-energy",
-    "title": "Meet the companies using AI to reinvent the energy business",
-    "desc": "Feature on how Halcyon and others are applying AI to the energy sector",
-    "outlet": "Fortune",
-    "year": "2025",
-    "format": "press",
-    "url": "https://fortune.com/2025/07/23/ai-energy-data-centers-environment-halcyon/",
-    "thumb": {
-      "label": "Fortune",
-      "sublabel": "Press",
-      "bg": "#1a0808",
-      "fg": "#e8c06a",
-      "type": "pub"
-    }
-  },
-  {
     "id": "nyt-wind-solar",
     "title": "A Trump 'Blockade' Is Stalling Hundreds of Wind and Solar Projects Nationwide",
     "desc": "New York Times climate feature citing Halcyon's energy data",
@@ -28,6 +12,102 @@
       "sublabel": "Press",
       "bg": "#0d0d0d",
       "fg": "#e8e4dc",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "halcyon-series-a-axios",
+    "title": "Halcyon raises $21M to build out energy data product and grow its team",
+    "desc": "Axios Pro exclusive on Halcyon's Series A \u2014 wrote the press release, managed all media outreach and placement",
+    "outlet": "Axios Pro",
+    "year": "2026",
+    "format": "press",
+    "url": "https://www.axios.com/pro/climate-deals/2026/03/16/halcyon-funding-21-million",
+    "thumb": {
+      "type": "pub",
+      "label": "Axios",
+      "sublabel": "Press",
+      "bg": "#1a0f00",
+      "fg": "#ff7624"
+    }
+  },
+  {
+    "id": "halcyon-series-a-fortune",
+    "title": "The Google-backed AI investors nobody took seriously in 2017 just raised $220 million",
+    "desc": "Fortune feature on Energize Capital's new fund \u2014 includes Halcyon's Series A as a lead deal",
+    "outlet": "Fortune",
+    "year": "2026",
+    "format": "press",
+    "url": "https://fortune.com/2026/03/17/google-backed-ai-investors-nobody-took-seriously-2017-raised-220-million-gradient/",
+    "thumb": {
+      "type": "pub",
+      "label": "Fortune",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8c06a"
+    }
+  },
+  {
+    "id": "halcyon-series-a-wsj",
+    "title": "Halcyon $21M Series A \u2014 WSJ New Money Newsletter",
+    "desc": "Wall Street Journal New Money newsletter feature on Halcyon's Series A funding round",
+    "outlet": "Wall Street Journal",
+    "year": "2026",
+    "format": "press",
+    "url": "https://createsend.com/t/d-1FE1B1C807EA96EA2540EF23F30FEDED",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Newsletter",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    }
+  },
+  {
+    "id": "halcyon-series-a-pitchbook",
+    "title": "Halcyon $21M Series A \u2014 PitchBook VC Deals",
+    "desc": "PitchBook VC Deals newsletter coverage of Halcyon's Series A round led by Energize Capital",
+    "outlet": "PitchBook",
+    "year": "2026",
+    "format": "press",
+    "url": "https://my.pitchbook.com/viewnewsletter/2d5rF-DR4Ir/vc",
+    "thumb": {
+      "type": "pub",
+      "label": "PB",
+      "sublabel": "VC Deals",
+      "bg": "#080d1a",
+      "fg": "#6090e8"
+    }
+  },
+  {
+    "id": "halcyon-series-a-heatmap",
+    "title": "Funding Friday: Nth Cycle, Halcyon, and More",
+    "desc": "Heatmap News Funding Friday roundup featuring Halcyon's $21M Series A",
+    "outlet": "Heatmap News",
+    "year": "2026",
+    "format": "press",
+    "url": "https://heatmap.news/climate-tech/funding-friday-nth-cycle-halcyon",
+    "thumb": {
+      "type": "pub",
+      "label": "Heatmap",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#ff6b35"
+    }
+  },
+  {
+    "id": "fortune-ai-energy",
+    "title": "Meet the companies using AI to reinvent the energy business",
+    "desc": "Feature on how Halcyon and others are applying AI to the energy sector",
+    "outlet": "Fortune",
+    "year": "2025",
+    "format": "press",
+    "url": "https://fortune.com/2025/07/23/ai-energy-data-centers-environment-halcyon/",
+    "thumb": {
+      "label": "Fortune",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8c06a",
       "type": "pub"
     }
   },
@@ -144,6 +224,38 @@
     }
   },
   {
+    "id": "twitter-reimagining-aw",
+    "title": "#ReimaginingPublicConversation",
+    "desc": "Advertising Week feature on Twitter's initiative to reimagine the public conversation on social media.",
+    "outlet": "Advertising Week",
+    "year": "2021",
+    "format": "press",
+    "url": "https://advertisingweek.com/reimagining-the-public-conversation/",
+    "thumb": {
+      "type": "pub",
+      "label": "AW",
+      "sublabel": "Press",
+      "bg": "#0d0820",
+      "fg": "#a78bfa"
+    }
+  },
+  {
+    "id": "twitter-reimagining-adage",
+    "title": "How Twitter Is Advancing the Conversation on Social Media",
+    "desc": "Ad Age feature on Twitter's #ReimaginingPublicConversation initiative.",
+    "outlet": "Advertising Age",
+    "year": "2021",
+    "format": "press",
+    "url": "https://adage.com/article/twitter/how-twitter-advancing-conversation-social-media/2392511/",
+    "thumb": {
+      "type": "pub",
+      "label": "Ad Age",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8001b"
+    }
+  },
+  {
     "id": "adobe-summit-deck",
     "title": "Social Advertising in a Cross-Channel World \u2014 Adobe Summit 2018",
     "desc": "Directed and delivered session on brand marketing and media agency strategy at Adobe Summit",
@@ -157,22 +269,6 @@
       "bg": "#1a0808",
       "fg": "#ff4b00",
       "type": "pub"
-    }
-  },
-  {
-    "id": "openvv-video",
-    "title": "Open Video View (OpenVV) \u2014 Viewability Benchmark Explainer",
-    "desc": "Wrote the full script for this industry viewability standards video",
-    "outlet": "TubeMogul",
-    "year": "2016",
-    "format": "video",
-    "url": "https://www.youtube.com/watch?v=5g4pHqoq6Xg",
-    "thumb": {
-      "label": "\u25b6",
-      "sublabel": "YouTube",
-      "bg": "#10101a",
-      "fg": "#a78bfa",
-      "type": "video"
     }
   },
   {
@@ -192,51 +288,19 @@
     }
   },
   {
-    "id": "wsj-culture",
-    "title": "Weekend Read: How to Scale Culture for Competitive Advantage",
-    "desc": "Op-ed on the three pillars leaders need to build successful companies \u2014 placed in WSJ Weekend Read",
-    "outlet": "Wall Street Journal",
-    "year": "2014",
-    "format": "press",
-    "url": "https://www.wsj.com/articles/BL-232B-2899",
+    "id": "openvv-video",
+    "title": "Open Video View (OpenVV) \u2014 Viewability Benchmark Explainer",
+    "desc": "Wrote the full script for this industry viewability standards video",
+    "outlet": "TubeMogul",
+    "year": "2016",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=5g4pHqoq6Xg",
     "thumb": {
-      "label": "WSJ",
-      "sublabel": "Op-Ed",
-      "bg": "#0d0e0d",
-      "fg": "#c8a96e",
-      "type": "pub"
-    }
-  },
-  {
-    "id": "vox-ukraine",
-    "title": "U.S. Tech Companies Have a Lot at Stake in Ukraine",
-    "desc": "Op-ed on why the tech industry had significant exposure to the Ukraine conflict",
-    "outlet": "Vox",
-    "year": "2014",
-    "format": "press",
-    "url": "https://www.vox.com/2014/6/26/11628364/u-s-tech-companies-have-a-lot-at-stake-in-ukraine",
-    "thumb": {
-      "label": "Vox",
-      "sublabel": "Op-Ed",
-      "bg": "#1a0812",
-      "fg": "#e6005c",
-      "type": "pub"
-    }
-  },
-  {
-    "id": "adage-obamacare",
-    "title": "Where's the Digital Advertising to Get Young People Into Obamacare?",
-    "desc": "Op-ed on the missed opportunity in digital advertising targeting young, uninsured Americans",
-    "outlet": "Advertising Age",
-    "year": "2014",
-    "format": "press",
-    "url": "https://adage.com/article/digitalnext/digital-ads-young-people-obamacare/292308/",
-    "thumb": {
-      "label": "Ad Age",
-      "sublabel": "Op-Ed",
-      "bg": "#1a0808",
-      "fg": "#e8001b",
-      "type": "pub"
+      "label": "\u25b6",
+      "sublabel": "YouTube",
+      "bg": "#10101a",
+      "fg": "#a78bfa",
+      "type": "video"
     }
   },
   {
@@ -256,38 +320,6 @@
     }
   },
   {
-    "id": "ce-ad-fraud",
-    "title": "The Case for Beating Ad Fraud With Programmatic",
-    "desc": "Op-ed on how programmatic buying methodology can systematically eliminate digital ad fraud",
-    "outlet": "Campaigns & Elections",
-    "year": "2015",
-    "format": "press",
-    "url": "https://campaignsandelections.com/campaigntech/the-case-for-beating-ad-fraud-with-programmatic/",
-    "thumb": {
-      "label": "C&E",
-      "sublabel": "Op-Ed",
-      "bg": "#080e1a",
-      "fg": "#6090d8",
-      "type": "pub"
-    }
-  },
-  {
-    "id": "adexchanger-attribution",
-    "title": "Your Attribution Model Is Broken",
-    "desc": "Op-ed arguing that standard digital attribution models fundamentally misrepresent the customer journey",
-    "outlet": "AdExchanger",
-    "year": "2015",
-    "format": "press",
-    "url": "https://www.adexchanger.com/data-driven-thinking/your-attribution-model-is-broken/",
-    "thumb": {
-      "label": "AdX",
-      "sublabel": "Op-Ed",
-      "bg": "#0d1520",
-      "fg": "#60a5d8",
-      "type": "pub"
-    }
-  },
-  {
     "id": "campaign-asia-fishing",
     "title": "Bits, Bites, and Downstream Indicators: Fly Fishing and Advertising",
     "desc": "Op-ed drawing an extended analogy between fly fishing technique and advertising measurement",
@@ -300,22 +332,6 @@
       "sublabel": "Op-Ed",
       "bg": "#1a0808",
       "fg": "#e84040",
-      "type": "pub"
-    }
-  },
-  {
-    "id": "nyt-corner-office",
-    "title": "Corner Office: For Brett Wilson of TubeMogul, It's All in the Follow-Through",
-    "desc": "New York Times Corner Office profile \u2014 pitched and placed the story, prepped the subject",
-    "outlet": "New York Times",
-    "year": "2014",
-    "format": "press",
-    "url": "https://www.nytimes.com/2014/05/25/business/corner-office-for-brett-wilson-of-tubemogul-its-all-in-the-follow-through.html",
-    "thumb": {
-      "label": "NYT",
-      "sublabel": "Feature",
-      "bg": "#0d0d0d",
-      "fg": "#e8e4dc",
       "type": "pub"
     }
   },
@@ -368,35 +384,99 @@
     }
   },
   {
-    "id": "twitter-reimagining-aw",
-    "title": "#ReimaginingPublicConversation",
-    "desc": "Advertising Week feature on Twitter's initiative to reimagine the public conversation on social media.",
-    "outlet": "Advertising Week",
-    "year": "2021",
+    "id": "ce-ad-fraud",
+    "title": "The Case for Beating Ad Fraud With Programmatic",
+    "desc": "Op-ed on how programmatic buying methodology can systematically eliminate digital ad fraud",
+    "outlet": "Campaigns & Elections",
+    "year": "2015",
     "format": "press",
-    "url": "https://advertisingweek.com/reimagining-the-public-conversation/",
+    "url": "https://campaignsandelections.com/campaigntech/the-case-for-beating-ad-fraud-with-programmatic/",
     "thumb": {
-      "type": "pub",
-      "label": "AW",
-      "sublabel": "Press",
-      "bg": "#0d0820",
-      "fg": "#a78bfa"
+      "label": "C&E",
+      "sublabel": "Op-Ed",
+      "bg": "#080e1a",
+      "fg": "#6090d8",
+      "type": "pub"
     }
   },
   {
-    "id": "twitter-reimagining-adage",
-    "title": "How Twitter Is Advancing the Conversation on Social Media",
-    "desc": "Ad Age feature on Twitter's #ReimaginingPublicConversation initiative.",
-    "outlet": "Advertising Age",
-    "year": "2021",
+    "id": "adexchanger-attribution",
+    "title": "Your Attribution Model Is Broken",
+    "desc": "Op-ed arguing that standard digital attribution models fundamentally misrepresent the customer journey",
+    "outlet": "AdExchanger",
+    "year": "2015",
     "format": "press",
-    "url": "https://adage.com/article/twitter/how-twitter-advancing-conversation-social-media/2392511/",
+    "url": "https://www.adexchanger.com/data-driven-thinking/your-attribution-model-is-broken/",
     "thumb": {
-      "type": "pub",
+      "label": "AdX",
+      "sublabel": "Op-Ed",
+      "bg": "#0d1520",
+      "fg": "#60a5d8",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "wsj-culture",
+    "title": "Weekend Read: How to Scale Culture for Competitive Advantage",
+    "desc": "Op-ed on the three pillars leaders need to build successful companies \u2014 placed in WSJ Weekend Read",
+    "outlet": "Wall Street Journal",
+    "year": "2014",
+    "format": "press",
+    "url": "https://www.wsj.com/articles/BL-232B-2899",
+    "thumb": {
+      "label": "WSJ",
+      "sublabel": "Op-Ed",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "vox-ukraine",
+    "title": "U.S. Tech Companies Have a Lot at Stake in Ukraine",
+    "desc": "Op-ed on why the tech industry had significant exposure to the Ukraine conflict",
+    "outlet": "Vox",
+    "year": "2014",
+    "format": "press",
+    "url": "https://www.vox.com/2014/6/26/11628364/u-s-tech-companies-have-a-lot-at-stake-in-ukraine",
+    "thumb": {
+      "label": "Vox",
+      "sublabel": "Op-Ed",
+      "bg": "#1a0812",
+      "fg": "#e6005c",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "adage-obamacare",
+    "title": "Where's the Digital Advertising to Get Young People Into Obamacare?",
+    "desc": "Op-ed on the missed opportunity in digital advertising targeting young, uninsured Americans",
+    "outlet": "Advertising Age",
+    "year": "2014",
+    "format": "press",
+    "url": "https://adage.com/article/digitalnext/digital-ads-young-people-obamacare/292308/",
+    "thumb": {
       "label": "Ad Age",
-      "sublabel": "Press",
+      "sublabel": "Op-Ed",
       "bg": "#1a0808",
-      "fg": "#e8001b"
+      "fg": "#e8001b",
+      "type": "pub"
+    }
+  },
+  {
+    "id": "nyt-corner-office",
+    "title": "Corner Office: For Brett Wilson of TubeMogul, It's All in the Follow-Through",
+    "desc": "New York Times Corner Office profile \u2014 pitched and placed the story, prepped the subject",
+    "outlet": "New York Times",
+    "year": "2014",
+    "format": "press",
+    "url": "https://www.nytimes.com/2014/05/25/business/corner-office-for-brett-wilson-of-tubemogul-its-all-in-the-follow-through.html",
+    "thumb": {
+      "label": "NYT",
+      "sublabel": "Feature",
+      "bg": "#0d0d0d",
+      "fg": "#e8e4dc",
+      "type": "pub"
     }
   }
 ]
