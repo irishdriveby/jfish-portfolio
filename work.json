@@ -256,6 +256,70 @@
     }
   },
   {
+    "id": "twitter-adexchanger-ad-server",
+    "title": "Twitter Had a Good Quarter as It Doubles Down on Ad Server Revamp and Direct Response",
+    "desc": "AdExchanger coverage of Twitter's revenue product strategy \u2014 provided context and background for the piece",
+    "outlet": "AdExchanger",
+    "year": "2021",
+    "format": "press",
+    "url": "https://www.adexchanger.com/platforms/twitter-had-a-good-quarter-as-it-doubles-down-on-ad-server-revamp-and-direct-response/",
+    "thumb": {
+      "type": "pub",
+      "label": "AdX",
+      "sublabel": "Press",
+      "bg": "#0d1520",
+      "fg": "#60a5d8"
+    }
+  },
+  {
+    "id": "twitter-blog-ads-pacing",
+    "title": "How We Built Twitter's Highly Reliable Ads Pacing Service",
+    "desc": "Twitter Engineering blog \u2014 edited this deep-dive on the infrastructure behind Twitter's ads pacing system",
+    "outlet": "Twitter Engineering",
+    "year": "2021",
+    "format": "web",
+    "url": "https://blog.x.com/engineering/en_us/topics/infrastructure/2021/how-we-built-twitter-s-highly-reliable-ads-pacing-service",
+    "thumb": {
+      "type": "pub",
+      "label": "\ud835\udd4f",
+      "sublabel": "Eng Blog",
+      "bg": "#08100d",
+      "fg": "#1d9bf0"
+    }
+  },
+  {
+    "id": "twitter-blog-sharding",
+    "title": "Sharding Simplification and Twitter's Ads Serving Platform",
+    "desc": "Twitter Engineering blog \u2014 edited this technical post on scaling Twitter's ads serving infrastructure",
+    "outlet": "Twitter Engineering",
+    "year": "2021",
+    "format": "web",
+    "url": "https://blog.x.com/engineering/en_us/topics/infrastructure/2021/sharding-simplification-and-twitters-ads-serving-platform",
+    "thumb": {
+      "type": "pub",
+      "label": "\ud835\udd4f",
+      "sublabel": "Eng Blog",
+      "bg": "#08100d",
+      "fg": "#1d9bf0"
+    }
+  },
+  {
+    "id": "twitter-blog-ad-platform-architecture",
+    "title": "Building Twitter's Ad Platform Architecture for the Future",
+    "desc": "Twitter Engineering blog \u2014 edited this piece on the architectural overhaul of Twitter's ads platform",
+    "outlet": "Twitter Engineering",
+    "year": "2020",
+    "format": "web",
+    "url": "https://blog.x.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future",
+    "thumb": {
+      "type": "pub",
+      "label": "\ud835\udd4f",
+      "sublabel": "Eng Blog",
+      "bg": "#08100d",
+      "fg": "#1d9bf0"
+    }
+  },
+  {
     "id": "adobe-summit-deck",
     "title": "Social Advertising in a Cross-Channel World \u2014 Adobe Summit 2018",
     "desc": "Directed and delivered session on brand marketing and media agency strategy at Adobe Summit",
