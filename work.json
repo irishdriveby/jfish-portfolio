@@ -1,5 +1,22 @@
 [
   {
+    "id": "halcyon-nameplate-podcast",
+    "title": "NAMEPLATE — Podcast",
+    "desc": "Halcyon's podcast in which Nat Bullard interviews the CEOs of U.S. energy companies on where the industry is headed",
+    "outlet": "Halcyon",
+    "year": "2026",
+    "date": "2026-10-16",
+    "format": "web",
+    "url": "https://halcyon.io/nameplate",
+    "thumb": {
+      "type": "icon",
+      "label": "◉",
+      "sublabel": "Podcast",
+      "bg": "#0a1a14",
+      "fg": "#4ade80"
+    }
+  },
+  {
     "id": "politico-scotland-backlash",
     "title": "US-style backlash hits Scotland",
     "desc": "Politico Surge interview with Halcyon co-founder Nat Bullard on his new utility-executive podcast, NAMEPLATE",
