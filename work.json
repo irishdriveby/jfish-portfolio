@@ -1,5 +1,379 @@
 [
   {
+    "id": "politico-scotland-backlash",
+    "title": "US-style backlash hits Scotland",
+    "desc": "Politico Surge interview with Halcyon co-founder Nat Bullard on his new utility-executive podcast, NAMEPLATE",
+    "outlet": "Politico",
+    "year": "2026",
+    "date": "2026-10-16",
+    "format": "press",
+    "url": "https://www.politico.com/newsletters/politico-surge/2026/10/16/us-style-backlash-hits-scotland-01122700",
+    "thumb": {
+      "type": "pub",
+      "label": "POLITICO",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8343c"
+    }
+  },
+  {
+    "id": "wsj-phantom-data-centers",
+    "title": "'Phantom' Data Centers Are Demanding More From the Power Grid Than They Need",
+    "desc": "WSJ analysis built on Halcyon's Large Load Tariff Tracker — minimum contract lengths for large customers more than doubled since 2024",
+    "outlet": "Wall Street Journal",
+    "year": "2026",
+    "date": "2026-10-13",
+    "format": "press",
+    "url": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?st=ZJX8Q2&reflink=desktopwebshare_permalink",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Press",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    }
+  },
+  {
+    "id": "nest-ai-energy-transition",
+    "title": "AI's Real Job in the Energy Transition",
+    "desc": "Climate Week NYC panel at The Nest Climate Campus featuring Halcyon CEO Bruce Falck",
+    "outlet": "The Nest Climate Campus",
+    "year": "2026",
+    "date": "2026-09-25",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=gq52tfLRvao",
+    "thumb": {
+      "type": "video",
+      "label": "▶",
+      "sublabel": "YouTube",
+      "bg": "#0a1a14",
+      "fg": "#4ade80"
+    }
+  },
+  {
+    "id": "ft-utility-profits",
+    "title": "US utility profits come under fire over data centre demand",
+    "desc": "Financial Times story citing Halcyon's Rate Case Tracker on regulators cutting utility rate requests ahead of the midterms",
+    "outlet": "Financial Times",
+    "year": "2026",
+    "date": "2026-09-21",
+    "format": "press",
+    "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57",
+    "thumb": {
+      "type": "pub",
+      "label": "FT",
+      "sublabel": "Press",
+      "bg": "#33302e",
+      "fg": "#fcd0b1"
+    }
+  },
+  {
+    "id": "utilitydive-large-load-tariffs",
+    "title": "Large-load tariffs increasingly rely on upfront payments, exit fees, ramp schedules",
+    "desc": "Utility Dive coverage of an LBNL / Brattle study built on Halcyon's 264-filing Large Load Tariff Tracker",
+    "outlet": "Utility Dive",
+    "year": "2026",
+    "date": "2026-09-08",
+    "format": "press",
+    "url": "https://www.utilitydive.com/news/large-load-tariffs-lbnl-brattle/829796/",
+    "thumb": {
+      "type": "pub",
+      "label": "UD",
+      "sublabel": "Press",
+      "bg": "#0a1420",
+      "fg": "#3fa9f5"
+    }
+  },
+  {
+    "id": "bloomberg-phantom-power",
+    "title": "Most Power Sought for US Data Centers Will Never Materialize",
+    "desc": "Bloomberg feature quoting Halcyon co-founder Alex Klaessig on how utilities are writing rules for new data center load",
+    "outlet": "Bloomberg",
+    "year": "2026",
+    "date": "2026-08-12",
+    "format": "press",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/most-electricity-sought-for-ai-data-centers-in-us-will-never-materialize",
+    "thumb": {
+      "type": "pub",
+      "label": "Bloomberg",
+      "sublabel": "Press",
+      "bg": "#0d0d0d",
+      "fg": "#e8e4dc"
+    }
+  },
+  {
+    "id": "energynerd-halcyon",
+    "title": "Halcyon: The New AI Tool for Energy Research",
+    "desc": "Energy Nerd Show episode with Halcyon Head of Product Sam Steyer on the company's AI research platform",
+    "outlet": "Energy Nerd Show",
+    "year": "2026",
+    "date": "2026-08-05",
+    "format": "press",
+    "url": "https://energynerdshow.com/episodes/halcyon-the-new-ai-tool-for-energy-research",
+    "thumb": {
+      "type": "icon",
+      "label": "◉",
+      "sublabel": "Podcast",
+      "bg": "#10101a",
+      "fg": "#c4b5fd"
+    }
+  },
+  {
+    "id": "canary-pjm-greenlit",
+    "title": "PJM Greenlit New Power. Can It Get Built?",
+    "desc": "Canary Media story built on Halcyon's analysis of PJM construction data — utility-led upgrades ran late more often",
+    "outlet": "Canary Media",
+    "year": "2026",
+    "date": "2026-08-01",
+    "format": "press",
+    "url": "https://www.canarymedia.com/articles/energy-markets/pjm-greenlit-new-clean-power",
+    "thumb": {
+      "type": "pub",
+      "label": "Canary",
+      "sublabel": "Press",
+      "bg": "#1a1608",
+      "fg": "#f5c518"
+    }
+  },
+  {
+    "id": "puf-wmp-best-practices",
+    "title": "An Evolution in WMP Best Practices",
+    "desc": "Public Utilities Fortnightly byline by Halcyon's Sam Kozel on how wildfire mitigation plans have evolved since 2018",
+    "outlet": "Public Utilities Fortnightly",
+    "year": "2026",
+    "date": "2026-08-01",
+    "format": "press",
+    "url": "https://www.fortnightly.com/fortnightly/2026/08/evolution-wmp-best-practices?authkey=97df93246239fc7c27b9764d74c8a9ab298efedb17bdf3cbe9324b05531953dc",
+    "thumb": {
+      "type": "pub",
+      "label": "PUF",
+      "sublabel": "Byline",
+      "bg": "#081520",
+      "fg": "#7aa7d8"
+    }
+  },
+  {
+    "id": "e3-recost-q3-2026",
+    "title": "Resource Cost (RECOST) Model Updated for Q3 2026",
+    "desc": "E3's quarterly cost model update, using Halcyon's Gas Power Plant Tracker to project gas capital costs",
+    "outlet": "E3",
+    "year": "2026",
+    "date": "2026-07-28",
+    "format": "document",
+    "url": "https://www.ethree.com/recost-2026-q3/",
+    "thumb": {
+      "type": "pub",
+      "label": "E3",
+      "sublabel": "Report",
+      "bg": "#0a1a10",
+      "fg": "#6ee7b7"
+    }
+  },
+  {
+    "id": "wsj-power-demand-grid-costs",
+    "title": "America's Demand for Power Is Soaring—and So Are the Costs of Building Out the Grid",
+    "desc": "WSJ story citing Halcyon's Large Load Tariff Tracker — 190+ utility cases on how to charge very large customers",
+    "outlet": "Wall Street Journal",
+    "year": "2026",
+    "date": "2026-07-24",
+    "format": "press",
+    "url": "https://www.wsj.com/business/energy-oil/americas-demand-for-power-is-soaringand-so-are-the-costs-of-building-out-the-grid-f57b5adb?st=A3avSv&reflink=desktopwebshare_permalink",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Press",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    }
+  },
+  {
+    "id": "heatmap-engineering-mindset",
+    "title": "The Engineering Mindset Breaking the Grid",
+    "desc": "Heatmap op-ed by Halcyon senior research manager Jacob Grindal, an ISO New England veteran",
+    "outlet": "Heatmap News",
+    "year": "2026",
+    "date": "2026-06-29",
+    "format": "press",
+    "url": "https://heatmap.news/ideas/ai-grid-problem",
+    "thumb": {
+      "type": "pub",
+      "label": "Heatmap",
+      "sublabel": "Op-Ed",
+      "bg": "#1a0808",
+      "fg": "#ff6b35"
+    }
+  },
+  {
+    "id": "gtr-letters-of-credit",
+    "title": "Demand for letters of credit surges as data centres scramble for power",
+    "desc": "Global Trade Review story built on Halcyon data — 67 of 109 collateral filings reference a letter of credit",
+    "outlet": "Global Trade Review",
+    "year": "2026",
+    "date": "2026-06-24",
+    "format": "press",
+    "url": "https://halcyon.io/newsroom/demand-for-letters-of-credit-surges-as-data-centres-scramble-for-power",
+    "thumb": {
+      "type": "pub",
+      "label": "GTR",
+      "sublabel": "Press",
+      "bg": "#0d1520",
+      "fg": "#60a5d8"
+    }
+  },
+  {
+    "id": "wsj-phoenix-data-centers",
+    "title": "Phoenix Is a Data-Center Mecca—and Test Case for How to Pay for AI's Power Needs",
+    "desc": "WSJ story drawing on Halcyon's Large Load Tariff Tracker in the fight over who pays for AI's power costs",
+    "outlet": "Wall Street Journal",
+    "year": "2026",
+    "date": "2026-06-04",
+    "format": "press",
+    "url": "https://www.wsj.com/business/energy-oil/phoenix-is-a-data-center-meccaand-test-case-for-how-to-pay-for-ais-power-needs-c671056f?st=ASXvEG&reflink=desktopwebshare_permalink",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Press",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    }
+  },
+  {
+    "id": "wsj-american-rebellion-ai",
+    "title": "The American Rebellion Against AI Is Gaining Steam",
+    "desc": "WSJ story citing Halcyon-compiled public comments from utility proceedings on data center costs",
+    "outlet": "Wall Street Journal",
+    "year": "2026",
+    "date": "2026-05-18",
+    "format": "press",
+    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529?st=EnrcE4&reflink=desktopwebshare_permalink",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Press",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    }
+  },
+  {
+    "id": "nyt-oil-crisis-renewables",
+    "title": "The Global Oil Crisis Seems to Be Helping One Industry: Renewable Energy",
+    "desc": "New York Times story quoting Halcyon CSO Nat Bullard on the limits of cost-competitiveness in the energy transition",
+    "outlet": "New York Times",
+    "year": "2026",
+    "date": "2026-05-06",
+    "format": "press",
+    "url": "https://www.nytimes.com/2026/05/06/climate/irena-renewables-energy-cost.html?unlocked_article_code=1.gVA.Me19.Ubu9Ve2kiiQ7&smid=url-share",
+    "thumb": {
+      "type": "pub",
+      "label": "NYT",
+      "sublabel": "Press",
+      "bg": "#0d0d0d",
+      "fg": "#e8e4dc"
+    }
+  },
+  {
+    "id": "e3-large-load-whitepaper",
+    "title": "Large Load Tariff Whitepaper",
+    "desc": "Joint whitepaper with E3 using Halcyon's Large Load Tariff Tracker to benchmark data center electricity bills",
+    "outlet": "Halcyon × E3",
+    "year": "2026",
+    "date": "2026-05-05",
+    "format": "document",
+    "url": "https://halcyon.io/newsroom/large-load-tariff-whitepaper",
+    "thumb": {
+      "type": "pub",
+      "label": "E3",
+      "sublabel": "Whitepaper",
+      "bg": "#0a1a10",
+      "fg": "#6ee7b7"
+    }
+  },
+  {
+    "id": "halcyon-series-a-heatmap",
+    "title": "Funding Friday: Battery Metals Made in the USA",
+    "desc": "Heatmap News Funding Friday roundup featuring Halcyon's $21M Series A",
+    "outlet": "Heatmap News",
+    "year": "2026",
+    "format": "press",
+    "url": "https://heatmap.news/climate-tech/funding-friday-nth-cycle-halcyon",
+    "thumb": {
+      "type": "pub",
+      "label": "Heatmap",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#ff6b35"
+    },
+    "date": "2026-03-20"
+  },
+  {
+    "id": "halcyon-series-a-fortune",
+    "title": "The Google-backed AI investors nobody took seriously in 2017 just raised $220 million",
+    "desc": "Fortune feature on Energize Capital's new fund — includes Halcyon's Series A as a lead deal",
+    "outlet": "Fortune",
+    "year": "2026",
+    "format": "press",
+    "url": "https://fortune.com/2026/03/17/google-backed-ai-investors-nobody-took-seriously-2017-raised-220-million-gradient/",
+    "thumb": {
+      "type": "pub",
+      "label": "Fortune",
+      "sublabel": "Press",
+      "bg": "#1a0808",
+      "fg": "#e8c06a"
+    },
+    "date": "2026-03-17"
+  },
+  {
+    "id": "halcyon-series-a-wsj",
+    "title": "Halcyon $21M Series A — WSJ New Money Newsletter",
+    "desc": "Wall Street Journal New Money newsletter feature on Halcyon's Series A funding round",
+    "outlet": "Wall Street Journal",
+    "year": "2026",
+    "format": "press",
+    "url": "https://createsend.com/t/d-1FE1B1C807EA96EA2540EF23F30FEDED",
+    "thumb": {
+      "type": "pub",
+      "label": "WSJ",
+      "sublabel": "Newsletter",
+      "bg": "#0d0e0d",
+      "fg": "#c8a96e"
+    },
+    "date": "2026-03-17"
+  },
+  {
+    "id": "halcyon-series-a-pitchbook",
+    "title": "Halcyon $21M Series A — PitchBook VC Deals",
+    "desc": "PitchBook VC Deals newsletter coverage of Halcyon's Series A round led by Energize Capital",
+    "outlet": "PitchBook",
+    "year": "2026",
+    "format": "press",
+    "url": "https://my.pitchbook.com/viewnewsletter/2d5rF-DR4Ir/vc",
+    "thumb": {
+      "type": "pub",
+      "label": "PB",
+      "sublabel": "VC Deals",
+      "bg": "#080d1a",
+      "fg": "#6090e8"
+    },
+    "date": "2026-03-17"
+  },
+  {
+    "id": "halcyon-series-a-axios",
+    "title": "Exclusive: Halcyon closes $21M to expand energy data service",
+    "desc": "Axios Pro exclusive on Halcyon's Series A — wrote the press release, managed all media outreach and placement",
+    "outlet": "Axios Pro",
+    "year": "2026",
+    "format": "press",
+    "url": "https://www.axios.com/pro/climate-deals/2026/03/16/halcyon-funding-21-million",
+    "thumb": {
+      "type": "pub",
+      "label": "Axios",
+      "sublabel": "Press",
+      "bg": "#1a0f00",
+      "fg": "#ff7624"
+    },
+    "date": "2026-03-16"
+  },
+  {
     "id": "nyt-wind-solar",
     "title": "A Trump 'Blockade' Is Stalling Hundreds of Wind and Solar Projects Nationwide",
     "desc": "New York Times climate feature citing Halcyon's energy data",
@@ -13,87 +387,8 @@
       "bg": "#0d0d0d",
       "fg": "#e8e4dc",
       "type": "pub"
-    }
-  },
-  {
-    "id": "halcyon-series-a-axios",
-    "title": "Halcyon raises $21M to build out energy data product and grow its team",
-    "desc": "Axios Pro exclusive on Halcyon's Series A \u2014 wrote the press release, managed all media outreach and placement",
-    "outlet": "Axios Pro",
-    "year": "2026",
-    "format": "press",
-    "url": "https://www.axios.com/pro/climate-deals/2026/03/16/halcyon-funding-21-million",
-    "thumb": {
-      "type": "pub",
-      "label": "Axios",
-      "sublabel": "Press",
-      "bg": "#1a0f00",
-      "fg": "#ff7624"
-    }
-  },
-  {
-    "id": "halcyon-series-a-fortune",
-    "title": "The Google-backed AI investors nobody took seriously in 2017 just raised $220 million",
-    "desc": "Fortune feature on Energize Capital's new fund \u2014 includes Halcyon's Series A as a lead deal",
-    "outlet": "Fortune",
-    "year": "2026",
-    "format": "press",
-    "url": "https://fortune.com/2026/03/17/google-backed-ai-investors-nobody-took-seriously-2017-raised-220-million-gradient/",
-    "thumb": {
-      "type": "pub",
-      "label": "Fortune",
-      "sublabel": "Press",
-      "bg": "#1a0808",
-      "fg": "#e8c06a"
-    }
-  },
-  {
-    "id": "halcyon-series-a-wsj",
-    "title": "Halcyon $21M Series A \u2014 WSJ New Money Newsletter",
-    "desc": "Wall Street Journal New Money newsletter feature on Halcyon's Series A funding round",
-    "outlet": "Wall Street Journal",
-    "year": "2026",
-    "format": "press",
-    "url": "https://createsend.com/t/d-1FE1B1C807EA96EA2540EF23F30FEDED",
-    "thumb": {
-      "type": "pub",
-      "label": "WSJ",
-      "sublabel": "Newsletter",
-      "bg": "#0d0e0d",
-      "fg": "#c8a96e"
-    }
-  },
-  {
-    "id": "halcyon-series-a-pitchbook",
-    "title": "Halcyon $21M Series A \u2014 PitchBook VC Deals",
-    "desc": "PitchBook VC Deals newsletter coverage of Halcyon's Series A round led by Energize Capital",
-    "outlet": "PitchBook",
-    "year": "2026",
-    "format": "press",
-    "url": "https://my.pitchbook.com/viewnewsletter/2d5rF-DR4Ir/vc",
-    "thumb": {
-      "type": "pub",
-      "label": "PB",
-      "sublabel": "VC Deals",
-      "bg": "#080d1a",
-      "fg": "#6090e8"
-    }
-  },
-  {
-    "id": "halcyon-series-a-heatmap",
-    "title": "Funding Friday: Nth Cycle, Halcyon, and More",
-    "desc": "Heatmap News Funding Friday roundup featuring Halcyon's $21M Series A",
-    "outlet": "Heatmap News",
-    "year": "2026",
-    "format": "press",
-    "url": "https://heatmap.news/climate-tech/funding-friday-nth-cycle-halcyon",
-    "thumb": {
-      "type": "pub",
-      "label": "Heatmap",
-      "sublabel": "Press",
-      "bg": "#1a0808",
-      "fg": "#ff6b35"
-    }
+    },
+    "date": "2026-02-04"
   },
   {
     "id": "fortune-ai-energy",
@@ -109,7 +404,8 @@
       "bg": "#1a0808",
       "fg": "#e8c06a",
       "type": "pub"
-    }
+    },
+    "date": "2025-07-23"
   },
   {
     "id": "economist-solar",
@@ -125,7 +421,8 @@
       "bg": "#0d1a0d",
       "fg": "#e8e4dc",
       "type": "pub"
-    }
+    },
+    "date": "2024-06-20"
   },
   {
     "id": "axios-halcyon",
@@ -141,18 +438,19 @@
       "bg": "#1a0f00",
       "fg": "#ff7624",
       "type": "pub"
-    }
+    },
+    "date": "2024-04-18"
   },
   {
     "id": "halcyon-blog",
-    "title": "Machine Readable \u2014 Halcyon Blog",
+    "title": "Machine Readable — Halcyon Blog",
     "desc": "Content strategy, editorial calendar, and ghostwriting for Halcyon's technical blog",
     "outlet": "Halcyon",
     "year": "2023",
     "format": "web",
     "url": "https://halcyon.io/blog/machine-readable",
     "thumb": {
-      "label": "\u2295",
+      "label": "⊕",
       "sublabel": "Blog",
       "bg": "#0a1a14",
       "fg": "#4ade80",
@@ -161,14 +459,14 @@
   },
   {
     "id": "halcyon-newsletter",
-    "title": "What's Happening in Energy \u2014 Newsletter",
+    "title": "What's Happening in Energy — Newsletter",
     "desc": "Ongoing editorial newsletter covering developments across the energy industry",
     "outlet": "Halcyon",
     "year": "2023",
     "format": "web",
     "url": "https://halcyon.io/blog/whatshappeninginenergy",
     "thumb": {
-      "label": "\u2726",
+      "label": "✦",
       "sublabel": "Newsletter",
       "bg": "#0a1a14",
       "fg": "#34d399",
@@ -177,14 +475,14 @@
   },
   {
     "id": "halcyon-website",
-    "title": "Halcyon.io \u2014 Layout & Copywriting",
+    "title": "Halcyon.io — Layout & Copywriting",
     "desc": "Full website overhaul: architecture, brand voice, and copy for all pages",
     "outlet": "Halcyon",
     "year": "2022",
     "format": "web",
     "url": "https://halcyon.io",
     "thumb": {
-      "label": "\u25c8",
+      "label": "◈",
       "sublabel": "Website",
       "bg": "#0a1a14",
       "fg": "#86efac",
@@ -194,7 +492,7 @@
   {
     "id": "twitter-shareholder-letter",
     "title": "Twitter Q4 & FY2021 Shareholder Letter",
-    "desc": "Wrote the Revenue Product section of Twitter's official SEC shareholder letters, Q2\u2013Q4 2021",
+    "desc": "Wrote the Revenue Product section of Twitter's official SEC shareholder letters, Q2–Q4 2021",
     "outlet": "Twitter / SEC",
     "year": "2021",
     "format": "document",
@@ -209,14 +507,14 @@
   },
   {
     "id": "twitter-analyst-day",
-    "title": "Twitter 2021 Analyst Day \u2014 Revenue Product Segment",
-    "desc": "Wrote the Revenue Product content and analyst talking points \u2014 starts at 1:22:00",
+    "title": "Twitter 2021 Analyst Day — Revenue Product Segment",
+    "desc": "Wrote the Revenue Product content and analyst talking points — starts at 1:22:00",
     "outlet": "Twitter",
     "year": "2021",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=d6sfHwAP9tI&t=4920s",
     "thumb": {
-      "label": "\u25b6",
+      "label": "▶",
       "sublabel": "YouTube",
       "bg": "#1a0808",
       "fg": "#ff5050",
@@ -258,7 +556,7 @@
   {
     "id": "twitter-adexchanger-ad-server",
     "title": "Twitter Had a Good Quarter as It Doubles Down on Ad Server Revamp and Direct Response",
-    "desc": "AdExchanger coverage of Twitter's revenue product strategy \u2014 provided context and background for the piece",
+    "desc": "AdExchanger coverage of Twitter's revenue product strategy — provided context and background for the piece",
     "outlet": "AdExchanger",
     "year": "2021",
     "format": "press",
@@ -274,14 +572,14 @@
   {
     "id": "twitter-blog-ads-pacing",
     "title": "How We Built Twitter's Highly Reliable Ads Pacing Service",
-    "desc": "Twitter Engineering blog \u2014 edited this deep-dive on the infrastructure behind Twitter's ads pacing system",
+    "desc": "Twitter Engineering blog — edited this deep-dive on the infrastructure behind Twitter's ads pacing system",
     "outlet": "Twitter Engineering",
     "year": "2021",
     "format": "web",
     "url": "https://blog.x.com/engineering/en_us/topics/infrastructure/2021/how-we-built-twitter-s-highly-reliable-ads-pacing-service",
     "thumb": {
       "type": "pub",
-      "label": "\ud835\udd4f",
+      "label": "𝕏",
       "sublabel": "Eng Blog",
       "bg": "#08100d",
       "fg": "#1d9bf0"
@@ -290,14 +588,14 @@
   {
     "id": "twitter-blog-sharding",
     "title": "Sharding Simplification and Twitter's Ads Serving Platform",
-    "desc": "Twitter Engineering blog \u2014 edited this technical post on scaling Twitter's ads serving infrastructure",
+    "desc": "Twitter Engineering blog — edited this technical post on scaling Twitter's ads serving infrastructure",
     "outlet": "Twitter Engineering",
     "year": "2021",
     "format": "web",
     "url": "https://blog.x.com/engineering/en_us/topics/infrastructure/2021/sharding-simplification-and-twitters-ads-serving-platform",
     "thumb": {
       "type": "pub",
-      "label": "\ud835\udd4f",
+      "label": "𝕏",
       "sublabel": "Eng Blog",
       "bg": "#08100d",
       "fg": "#1d9bf0"
@@ -306,61 +604,29 @@
   {
     "id": "twitter-blog-ad-platform-architecture",
     "title": "Building Twitter's Ad Platform Architecture for the Future",
-    "desc": "Twitter Engineering blog \u2014 edited this piece on the architectural overhaul of Twitter's ads platform",
+    "desc": "Twitter Engineering blog — edited this piece on the architectural overhaul of Twitter's ads platform",
     "outlet": "Twitter Engineering",
     "year": "2020",
     "format": "web",
     "url": "https://blog.x.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future",
     "thumb": {
       "type": "pub",
-      "label": "\ud835\udd4f",
+      "label": "𝕏",
       "sublabel": "Eng Blog",
       "bg": "#08100d",
       "fg": "#1d9bf0"
     }
   },
   {
-    "id": "adobe-summit-deck",
-    "title": "Social Advertising in a Cross-Channel World \u2014 Adobe Summit 2018",
-    "desc": "Directed and delivered session on brand marketing and media agency strategy at Adobe Summit",
-    "outlet": "Adobe Summit",
-    "year": "2018",
-    "format": "deck",
-    "url": "https://s3.amazonaws.com/external_clips/3066749/Social_Advertising_in_a_Cross-Channel_World_-_Summit_2018_Final.pdf?1557507338",
-    "thumb": {
-      "label": "Adobe",
-      "sublabel": "PDF Deck",
-      "bg": "#1a0808",
-      "fg": "#ff4b00",
-      "type": "pub"
-    }
-  },
-  {
-    "id": "adcloud-keynote",
-    "title": "AdCloud Keynote \u2014 Get Out of the Walled Garden",
-    "desc": "Marketing column turned keynote address on programmatic advertising strategy",
-    "outlet": "TubeMogul",
-    "year": "2018",
-    "format": "video",
-    "url": "https://vimeo.com/298481270",
-    "thumb": {
-      "label": "\u25b6",
-      "sublabel": "Vimeo",
-      "bg": "#081820",
-      "fg": "#1ab7ea",
-      "type": "video"
-    }
-  },
-  {
     "id": "openvv-video",
-    "title": "Open Video View (OpenVV) \u2014 Viewability Benchmark Explainer",
+    "title": "Open Video View (OpenVV) — Viewability Benchmark Explainer",
     "desc": "Wrote the full script for this industry viewability standards video",
     "outlet": "TubeMogul",
     "year": "2016",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=5g4pHqoq6Xg",
     "thumb": {
-      "label": "\u25b6",
+      "label": "▶",
       "sublabel": "YouTube",
       "bg": "#10101a",
       "fg": "#a78bfa",
@@ -401,15 +667,15 @@
   },
   {
     "id": "independence-matters-video",
-    "title": "Independence Matters \u2014 TubeMogul Anti-Walled-Garden Campaign",
-    "desc": "Conceived and produced a multi-platform campaign calling out Google's closed ecosystem \u2014 video, press strategy, and earned coverage in WSJ, The Drum, Business Insider, Campaign Asia, and more.",
+    "title": "Independence Matters — TubeMogul Anti-Walled-Garden Campaign",
+    "desc": "Conceived and produced a multi-platform campaign calling out Google's closed ecosystem — video, press strategy, and earned coverage in WSJ, The Drum, Business Insider, Campaign Asia, and more.",
     "outlet": "TubeMogul",
     "year": "2016",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=e2XPD28mCO8",
     "thumb": {
       "type": "video",
-      "label": "\u25b6",
+      "label": "▶",
       "sublabel": "YouTube",
       "bg": "#10101a",
       "fg": "#a78bfa"
@@ -482,7 +748,7 @@
   {
     "id": "wsj-culture",
     "title": "Weekend Read: How to Scale Culture for Competitive Advantage",
-    "desc": "Op-ed on the three pillars leaders need to build successful companies \u2014 placed in WSJ Weekend Read",
+    "desc": "Op-ed on the three pillars leaders need to build successful companies — placed in WSJ Weekend Read",
     "outlet": "Wall Street Journal",
     "year": "2014",
     "format": "press",
@@ -530,7 +796,7 @@
   {
     "id": "nyt-corner-office",
     "title": "Corner Office: For Brett Wilson of TubeMogul, It's All in the Follow-Through",
-    "desc": "New York Times Corner Office profile \u2014 pitched and placed the story, prepped the subject",
+    "desc": "New York Times Corner Office profile — pitched and placed the story, prepped the subject",
     "outlet": "New York Times",
     "year": "2014",
     "format": "press",
