@@ -183,7 +183,7 @@
     /* ── Work rows ── */
     .work-row {
       display: grid;
-      grid-template-columns: 100px 1fr 60px;
+      grid-template-columns: 76px 1fr 60px;
       gap: 22px;
       align-items: center;
       padding: 14px 10px;
@@ -207,15 +207,13 @@
     }
 
     .work-outlet-name {
+      display: block;
       font-family: var(--mono);
-      font-size: 8px;
+      font-size: 10px;
       letter-spacing: 0.14em;
       text-transform: uppercase;
       color: var(--muted);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 96px;
+      margin-bottom: 4px;
     }
 
     /* ── Thumbnail ── */
@@ -445,10 +443,10 @@
     function buildRow(item) {
       return `<a class="work-row" data-format="${item.format}" href="${item.url}" target="_blank" rel="noopener">
         <div class="work-left">
-          <span class="work-outlet-name">${item.outlet}</span>
           ${buildThumb(item.thumb)}
         </div>
         <div class="work-body">
+          <span class="work-outlet-name">${item.outlet}</span>
           <div class="work-title">${item.title}</div>
           <div class="work-desc">${item.desc}</div>
         </div>
